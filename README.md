@@ -23,7 +23,7 @@ My research primarily focuses on theoretical and observational **astrophysics**,
 
 ### 📫 How to reach me
 - **Website**: [zireael-rhena.github.io](https://zireael-rhena.github.io/)
-- **Email**: [dzs23@mails.tsinghua.edu.cn]
+- **Email**: dzs23@mails.tsinghua.edu.cn
 
 ---
 
