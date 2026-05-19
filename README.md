@@ -3,7 +3,7 @@
 ![Cosmic Rays](https://img.shields.io/badge/Topic-Cosmic--Ray%20Transport-orange)
 ![Protoplanetary Disks](https://img.shields.io/badge/Topic-Protoplanetary%20Disks-green)
 
-I am a 3rd-year undergraduate student majoring in **Physics** at **Tsinghua University**, currently an exchange student at **UC Berkeley**. 
+I am a 3rd-year undergraduate student majoring in **Physics** at **Tsinghua University**, previously an exchange student at **UC Berkeley** and now a research assistant there. 
 
 My research primarily focuses on theoretical and observational **astrophysics**, specifically cosmic ray transport in protoplanetary disks and high-energy transients.
 
