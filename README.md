@@ -1,6 +1,6 @@
 # Hi there! I'm Zisen Dai 👋
 ![Astrophysics](https://img.shields.io/badge/Focus-Astrophysics-blue)
-![Cosmic Rays](https://img.shields.io/badge/Topic-Cosmic--Ray%20Transport-orange)
+![Cosmic Rays](https://img.shields.io/badge/Topic-Cosmic%20Rays-orange)
 ![Protoplanetary Disks](https://img.shields.io/badge/Topic-Protoplanetary%20Disks-green)
 
 I am a 3rd-year undergraduate student majoring in **Physics** at **Tsinghua University**, previously an exchange student at **UC Berkeley** and now a research assistant there. 
