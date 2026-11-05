@@ -3,7 +3,7 @@
 ![Cosmic Rays](https://img.shields.io/badge/Topic-Cosmic%20Rays-orange)
 ![Protoplanetary Disks](https://img.shields.io/badge/Topic-Protoplanetary%20Disks-green)
 
-I am a 3rd-year undergraduate student majoring in **Physics** at **Tsinghua University**, previously an exchange student at **UC Berkeley** and now a research assistant there. 
+I am a 4rd-year undergraduate student majoring in **Physics** at **Tsinghua University**, previously an exchange student at **UC Berkeley** and a research assistant there. 
 
 My research primarily focuses on theoretical and observational **astrophysics**, specifically cosmic ray transport in protoplanetary disks and high-energy transients.
 
@@ -19,7 +19,7 @@ My research primarily focuses on theoretical and observational **astrophysics**,
 - 🚀 **Research Assistant**: 
   - Advised by [Xuening Bai](https://i.astro.tsinghua.edu.cn/~xbai/) (Tsinghua)
   - Advised by [Wenbin Lu](https://wenbinlu.github.io/) (Berkeley)
-- 📍 **Currently in**: Berkeley, CA
+- 📍 **Currently in**: Beijing, China
 
 ### 📫 How to reach me
 - **Website**: [zireael-rhena.github.io](https://zireael-rhena.github.io/)
